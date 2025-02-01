@@ -45,7 +45,7 @@ I love solving problems with code, optimizing systems, and automating **everythi
 
 ### 🏥 **Egreso/COVID-19 - Health Data System**  
 📊 Data collection & analysis system for COVID-19 patient management, featured in a scientific journal.  
-⚙️ *Python, Flask, PostgreSQL, Pandas, Flutter*  
+⚙️ *Python, FastAPI, PostgreSQL, Pandas, Flutter*  
 🔗 [Read More](https://www.revepidemiologia.sld.cu/index.php/hie/article/view/1267)  
 
 🤖 *Working on more cool stuff… Stay tuned!*  
