@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Leonel Alejandro García López (lagcleaner)  
-
-### 🚀 Computer Science | AI | Data Science | Backend & Mobile Development | DevOps  
+# 🧠💻  **Leonel Alejandro García López (lagcleaner)** 
+###  **AI | Data Science | Backend & Mobile Development | DevOps**   
 
 <img src="https://github-readme-stats.vercel.app/api?username=lagcleaner&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
@@ -10,53 +9,61 @@
 
 ---
 
-<div align="center">
+  
+## 🚀 **About Me**  
+👋 Hey there! I’m a **Computer Science graduate** with experience in:  
+✅ **AI & Data Science** – NLP, ML, deep learning, and data analysis.  
+✅ **Backend Development** – Building scalable APIs, automation, and DevOps.  
+✅ **Mobile Development** – Flutter expert, turning ideas into smooth apps.  
+✅ **DevOps & Cloud** – Docker, Kubernetes, CI/CD, and infrastructure automation.  
 
-## 🔧 Tech Stack  
-💻 **Programming:** Python, JavaScript, Dart, C#, Go, C++, TypeScript, Bash  
-📱 **Mobile Development:** Flutter, Dart, Firebase, REST APIs, SQLite  
-📊 **Data Science & AI:** Pandas, NumPy, Scikit-learn, TensorFlow, NLP (spaCy, NLTK), Transformers  
-🛠 **Backend & DevOps:** Flask, Django, FastAPI, Nest.js, Docker, Kubernetes, Ansible, CI/CD (GitHub Actions, Jenkins)  
-📡 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB  
-🛠 **Cloud & Infrastructure:** Linux Administration, Docker Compose, Kubernetes, AWS, CI/CD Pipelines  
-
-</div>
+I love solving problems with code, optimizing systems, and automating **everything** (because who wants to do repetitive tasks manually? 🤷‍♂️).   
 
 ---
 
-<div align="center">
+## 📌 **Projects (That Prove I Actually Code)**  
 
-## 📌 Featured Projects  
-
-🔹 **Sentilyze - NLP Sentiment Analysis**  
-💡 Machine learning-powered tool for sentiment analysis using NLP.  
-🚀 *Python, Hugging Face Transformers, Streamlit*  
+### 🧠 **Sentilyze - NLP Sentiment Analysis**  
+🔍 A machine learning-powered sentiment analysis tool using NLP.  
+⚙️ *Python, Hugging Face Transformers, Streamlit*  
 🔗 [GitHub Link](https://github.com/lagcleaner/Sentilyze)  
 
-🔹 **CUJAE - University Infrastructure & DevOps Automation**  
-💡 Maintained and optimized university portal & automated DevOps workflows.  
-🚀 *Docker, Kubernetes, Ansible, CI/CD*  
-🔗 *(Internal Project - Details Available Upon Request)*  
+### 🏛️ **CUJAE - University DevOps & Infrastructure**  
+🔧 Maintained & optimized the university portal, automated infrastructure.  
+⚙️ *Docker, Kubernetes, Ansible, CI/CD*  
+🔗 *(Internal Project - Ask nicely, I might share details! 😆)*  
 
-🔹 **Katapulk - E-commerce Mobile App**  
-💡 Developed and maintained an e-commerce mobile app with Flutter.  
-🚀 *Flutter, Dart, Firebase, REST APIs*  
-🔗 *(Private Project - Available Upon Request)*  
+### 📱 **Katapulk - E-commerce Mobile App**  
+🛒 Developed and maintained an e-commerce app with Flutter.  
+⚙️ *Flutter, Dart, Firebase, REST APIs*  
+🔗 *(Internal Project - Confidential 🤐)*
 
-🔹 **tfproto_client - Secure Data Transfer Library**  
-💡 Published a Python library on PyPI implementing a secure transfer protocol.  
-🚀 *Python, Cryptography, API Security*  
+### 🔒 **tfproto_client - Secure Data Transfer Library**  
+🔐 Published a Python library on PyPI for secure data transmission.  
+⚙️ *Python, Cryptography, API Security*  
 🔗 [GitHub Link](https://github.com/lagcleaner/tfproto_client)  
 
-🔹 **Egreso/COVID-19 - Health Data Collection System**  
-💡 COVID-19 patient data management system, featured in a scientific publication.  
-🚀 *Python, Flask, PostgreSQL, Pandas*  
-🔗 [Read More](https://www.revepidemiologia.sld.cu/index.php/hie/article/view/1267) 
-</div>
+### 🏥 **Egreso/COVID-19 - Health Data System**  
+📊 Data collection & analysis system for COVID-19 patient management, featured in a scientific journal.  
+⚙️ *Python, Flask, PostgreSQL, Pandas, Flutter*  
+🔗 [Read More](https://www.revepidemiologia.sld.cu/index.php/hie/article/view/1267)  
+
+🤖 *Working on more cool stuff… Stay tuned!*  
 
 ---
 
-<div align="center">
+## 🛠 **Tech Stack & Superpowers**  
+🧑‍💻 **Languages:** Python, JavaScript, Dart, C#, Go, C++, TypeScript, Bash  
+📊 **Data Science & AI:** Pandas, Jupyter, NumPy, Scikit-learn, TensorFlow, NLP (spaCy, NLTK), Transformers  
+🛠 **Backend & DevOps:** Flask, Django, FastAPI, Docker, Kubernetes, Ansible, CI/CD (GitHub Actions, Jenkins)  
+📱 **Mobile Development:** Flutter, Dart, Firebase, REST APIs, SQLite  
+📡 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB  
+☁️ **Cloud & Infrastructure:** Linux, Docker Compose, Kubernetes, AWS  
+
+💡 *Yes, I probably should go outside more… but my code won’t write itself!* 
+
+---
+
 
 ## 📫 Let's Connect  
 🔗 **LinkedIn:** [Leonel Alejandro García López](https://www.linkedin.com/in/lagcleaner)  
@@ -69,5 +76,3 @@ I’m open to collaboration, research projects, and new opportunities in **AI, D
 ---
 
 ⭐ **If you find my projects useful, consider giving a star! If you want to contact me, you know where... 😉** ⭐  
-
-</div>
