@@ -41,7 +41,7 @@ I love solving problems with code, optimizing systems, and automating **everythi
 ### 🔒 **tfproto_client - Secure Data Transfer Library**  
 🔐 Published a Python library on PyPI for secure data transmission.  
 ⚙️ *Python, Cryptography, API Security*  
-🔗 [GitHub Link](https://github.com/lagcleaner/tfproto_client)  
+🔗 [GitHub Link](https://github.com/GoDjango-Development/tfprotocol_client_py)  
 
 ### 🏥 **Egreso/COVID-19 - Health Data System**  
 📊 Data collection & analysis system for COVID-19 patient management, featured in a scientific journal.  
