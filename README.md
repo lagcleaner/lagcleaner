@@ -3,19 +3,17 @@
 # 🧠💻  **Leonel Alejandro García López (lagcleaner)** 
 ###  **Backend & Mobile Development | DevOps | Data Engineer**   
 
-<img src="https://github-readme-stats.vercel.app/api?username=lagcleaner&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
+<!--<img src="https://github-readme-stats.vercel.app/api?username=lagcleaner&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />-->
 </div>
 
 ---
 
-  
 ## 🚀 **About Me**  
 👋 Hey there! I’m a **Computer Science graduate** with experience in:  
-✅ **AI & Data Science** – NLP, ML, deep learning, and data analysis.  
-✅ **Backend Development** – Building scalable APIs, automation, and DevOps.  
-✅ **Mobile Development** – Flutter expert, turning ideas into smooth apps.  
-✅ **DevOps & Cloud** – Docker, Kubernetes, CI/CD, and infrastructure automation.  
+✅ **Mobile Development** – Flutter expert, turning ideas into smooth, functional apps.  
+✅ **Backend Development** – Building scalable APIs and automating things to make life easier.  
+✅ **AI & Data Science** – From NLP to machine learning, I enjoy diving into data to uncover insights.  
+✅ **DevOps & Cloud** – Docker, Kubernetes, CI/CD, and enjoy automating infrastructures.  
 
 I love solving problems with code, optimizing systems, and automating **everything** (because who wants to do repetitive tasks manually? 🤷‍♂️).   
 
