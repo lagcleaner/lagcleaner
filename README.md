@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧠💻  **Leonel Alejandro García López (lagcleaner)** 
-###  **AI | Data Science | Backend & Mobile Development | DevOps**   
+###  **Backend & Mobile Development | DevOps | Data Engineer**   
 
 <img src="https://github-readme-stats.vercel.app/api?username=lagcleaner&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
