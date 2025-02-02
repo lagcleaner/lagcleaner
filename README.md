@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 **About Me**  
-👋 Hey there! I’m a **Computer Science graduate** with experience in:  
+### 👋 Hey there! I’m a **Computer Science graduate** with experience in:  
 ✅ **Mobile Development** – Flutter expert, turning ideas into smooth, functional apps.  
 ✅ **Backend Development** – Building scalable APIs and automating things to make life easier.  
 ✅ **AI & Data Science** – From NLP to machine learning, I enjoy diving into data to uncover insights.  
