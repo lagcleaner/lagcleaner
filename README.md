@@ -6,6 +6,17 @@
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=lagcleaner&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />-->
 
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,firebase,typescript,python,flask,django,fastapi,tensorflow" />
+    </a>
+</p>
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgresql,kubernetes,docker,jenkins,ansible,aws,nest,vscode" />
+    </a>
+</p>
+
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lagcleaner@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lagcleaner)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagcleaner)
 
